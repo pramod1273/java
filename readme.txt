@@ -10,7 +10,6 @@ Hope you will enjoy!!
 Happy jenkins
 Trying to implement github webhook !!!!!!
 trying to implement pollscm
-new content addedd
-testing github web hook
+new content
 
 
